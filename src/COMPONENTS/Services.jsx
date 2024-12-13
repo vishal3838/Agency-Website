@@ -1,10 +1,10 @@
 import React from "react";
-import carvan from "../assets/service/cargo-van.jpg";
+import carvan from "../assets/service/cash-van.jpg";
 import deliveryBoy from "../assets/service/delivery-boy.jpg";
 import electronic from "../assets/service/electronic-surveillances.jpg";
 import Facility from "../assets/service/facility-management.jpg";
 import recruitment from "../assets/service/recruitment.jpeg";
-import scaffolding from "../assets/service/scaffolding.jpg";
+import scaffolding from "../assets/service/Scaffolding.jpg";
 import security from "../assets/service/security-guard.jpg";
 import consulting from "../assets/service/consulting.gif";
 
